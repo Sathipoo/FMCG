@@ -1,0 +1,4 @@
+lead_time_days: 3
+safety_stock_factor: 1.2
+test_size: 0.2
+random_state: 42
